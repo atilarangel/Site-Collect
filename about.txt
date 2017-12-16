@@ -1,0 +1,4 @@
+﻿O programa acessa o conteúdo de uma URL, capta o conteúdo e avalia se o site apresenta algum conteúdo relacionado é futebol, games ou engenharia.
+
+The program acess a URL, read the information in URL and show what the site talk about like footbal, games or engineer.
+Dev Atila Rangel
